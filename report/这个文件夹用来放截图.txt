@@ -1,0 +1,6 @@
+进入report文件夹，在里面再建一个report文件夹，再进入report文件夹，在里面再建一个images
+report - report - images
+
+
+
+别问我为什么这么麻烦，最开始搭框架的时候多输了一个report，后来懒得改了
